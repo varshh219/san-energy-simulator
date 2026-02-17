@@ -67,7 +67,7 @@ san-energy-simulator/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/san-energy-simulator.git
+git clone https://github.com/varshh219/san-energy-simulator
 cd san-energy-simulator
 ```
 
@@ -135,12 +135,6 @@ The application allows downloading:
 - Request logs (CSV)
 - Policy comparison summary (CSV)
 - Simulation report (TXT)
-
----
-
-## 🎯 Resume Highlight
-
-Developed an interactive SAN disk energy simulator implementing Moving Average and EWMA-based workload prediction, achieving up to 25% energy savings through predictive power management.
 
 ---
 
